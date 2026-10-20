@@ -294,8 +294,7 @@ Week5_DataAnalytics_SwiftLog_Meenah/
 Junior Data Analyst, AnalystLab Africa Experience Lab
 Lagos, Nigeria
 
-- LinkedIn: _add your profile link_
-- X (Twitter): _add your handle_
-- GitHub: _add your username_
-
+- LinkedIn: (https://www.linkedin.com/in/adeyemo-aminat-7a20b135b)
+- X (Twitter): x.com/olatundun25
+- Github: https://github.com/Olatundun25/
 Project completed as part of the **AnalystLab Africa Experience Lab Internship (Week 5)**. `#AnalystLabAfrica`
